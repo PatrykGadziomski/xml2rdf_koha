@@ -24,4 +24,4 @@ Feel free to commit :)
 ---
 
 ## Data Model
-![Data Model for the parsing][lib/assets/marcxml2rdf_datamodel.jpg]
+![Data Model for the parsing](lib/assets/marcxml2rdf_datamodel.jpg)
