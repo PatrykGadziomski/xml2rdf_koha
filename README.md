@@ -28,7 +28,7 @@ STATUS:
 
 Future:
 - [ ] Seperate the xml2rdf package from the project (Because this could be a small project by its own)
-- [ ] How about some images or nive elements in the visualization?
+- [ ] How about some images or nice elements in the visualization?
 
 My goal: At the end I want this to be a koha plugin, for easy conversion of MarcXML to Turtle format and having a native integration for the OPAC.
 
