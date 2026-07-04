@@ -21,6 +21,7 @@ STATUS:
   - [ ] Evaluate database integration
     - [ ] I have the feeling I should spend more time here... 
   - [ ] Evaluate visualization
+- [ ] Write better documentation
 - [ ] Write a query script for the UI
 - [ ] Evaluate the query script for the UI
 - [X] Self host Koha
