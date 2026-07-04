@@ -1,0 +1,10 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+<http://example.org/record/830891196> dc:identifier "9783887460440" .
+<http://example.org/record/830891196> dc:identifier "3887460448" .
+<http://example.org/record/830891196> dc:creator "Zipper, Jakob" .
+<http://example.org/record/830891196> dc:title "Theoretisch-praktische Anweisung zu Schlosserarbeiten nebst den dazu gehörigen Zeichnungen und Rissen" .
+<http://example.org/record/830891196> dc:subject "Schlosserarbeit" .
+<http://example.org/record/830891196> dc:subject "Schmiedekunst" .
+<http://example.org/record/830891196> dc:subject "Schlosserarbeit" .
+<http://example.org/record/830891196> dc:subject "Schmiedekunst" .

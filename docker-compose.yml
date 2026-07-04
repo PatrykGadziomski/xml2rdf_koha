@@ -1,0 +1,15 @@
+services:
+  fuseki:
+    image: stain/jena-fuseki
+    container_name: fuseki
+    ports:
+      - "3030:3030"
+    environment:
+      - ADMIN_PASSWORD=admin
+      - JVM_ARGS=-Xmx2g
+    volumes:
+      - fuseki_data:/fuseki
+    restart: unless-stopped
+
+volumes:
+  fuseki_data:

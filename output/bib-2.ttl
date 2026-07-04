@@ -1,0 +1,8 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+<http://example.org/record/870544063> dc:identifier "9783887461355" .
+<http://example.org/record/870544063> dc:identifier "3887461355" .
+<http://example.org/record/870544063> dc:creator "Metzger, Max" .
+<http://example.org/record/870544063> dc:title "<<Die>> Kunstschlosserei" .
+<http://example.org/record/870544063> dc:subject "Kunstschlosserei" .
+<http://example.org/record/870544063> dc:subject "Schmiedekunst" .

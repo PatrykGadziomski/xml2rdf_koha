@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"
+    xmlns="http://www.loc.gov/MARC21/slim">
+
+  <leader>02054nam a2200469 c 4500</leader>
+  <controlfield tag="001">830891196</controlfield>
+  <controlfield tag="003">DE-4525</controlfield>
+  <controlfield tag="005">20250925094411.0</controlfield>
+  <controlfield tag="007">tu</controlfield>
+  <controlfield tag="008">830708s1983    gw ||||| |||| 00||||ger  </controlfield>
+  <datafield tag="015" ind1=" " ind2=" ">
+    <subfield code="a">83,A37,0498</subfield>
+    <subfield code="2">dnb</subfield>
+  </datafield>
+  <datafield tag="016" ind1="7" ind2=" ">
+    <subfield code="2">DE-101</subfield>
+    <subfield code="a">830891196</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9783887460440</subfield>
+    <subfield code="c">Kunststoff : DM 58.00</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">3887460448</subfield>
+    <subfield code="c">Kunststoff : DM 58.00</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(DE-599)DNB830891196</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)74627034</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">1200</subfield>
+    <subfield code="b">ger</subfield>
+    <subfield code="c">DE-101</subfield>
+    <subfield code="d">9999</subfield>
+  </datafield>
+  <datafield tag="041" ind1=" " ind2=" ">
+    <subfield code="8">1\p</subfield>
+    <subfield code="a">ger</subfield>
+  </datafield>
+  <datafield tag="044" ind1=" " ind2=" ">
+    <subfield code="c">XA-DE</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="8">2\p</subfield>
+    <subfield code="0">(DE-588)1035654946</subfield>
+    <subfield code="0">https://d-nb.info/gnd/1035654946</subfield>
+    <subfield code="0">(DE-101)1035654946</subfield>
+    <subfield code="a">Zipper, Jakob</subfield>
+    <subfield code="d">1667-1735</subfield>
+    <subfield code="e">Verfasser</subfield>
+    <subfield code="4">aut</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Theoretisch-praktische Anweisung zu Schlosserarbeiten nebst den dazu geh&#xF6;rigen Zeichnungen und Rissen</subfield>
+    <subfield code="c">von Jakob Zipper</subfield>
+  </datafield>
+  <datafield tag="250" ind1=" " ind2=" ">
+    <subfield code="a">Reprint d. Ausg. Augsburg, Rettesheim, 1801</subfield>
+  </datafield>
+  <datafield tag="264" ind1=" " ind2="1">
+    <subfield code="a">Hannover</subfield>
+    <subfield code="b">Edition "Libri Rari" Sch&#xE4;fer</subfield>
+    <subfield code="c">1983</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">150 Seiten in getrennte Z&#xE4;hlung</subfield>
+    <subfield code="b">zahlreiche Illustrationen</subfield>
+    <subfield code="c">33 cm</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">Text</subfield>
+    <subfield code="b">txt</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">unbewegtes Bild</subfield>
+    <subfield code="b">sti</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+    <subfield code="b">n</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">Band</subfield>
+    <subfield code="b">nc</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="366" ind1=" " ind2=" ">
+    <subfield code="c">OP 20221008</subfield>
+    <subfield code="2">onixas</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Enth.: Abt. 1. - Abt. 2</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Schlosserarbeit</subfield>
+    <subfield code="2">local</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="a">Schmiedekunst</subfield>
+    <subfield code="2">local</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">3\p</subfield>
+    <subfield code="0">(DE-588)4219390-4</subfield>
+    <subfield code="0">https://d-nb.info/gnd/4219390-4</subfield>
+    <subfield code="0">(DE-101)042193907</subfield>
+    <subfield code="a">Schlosserarbeit</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7">
+    <subfield code="8">4\p</subfield>
+    <subfield code="0">(DE-588)4052911-3</subfield>
+    <subfield code="0">https://d-nb.info/gnd/4052911-3</subfield>
+    <subfield code="0">(DE-101)040529118</subfield>
+    <subfield code="a">Schmiedekunst</subfield>
+    <subfield code="2">gnd</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="2">
+    <subfield code="m">B:DE-101</subfield>
+    <subfield code="q">application/pdf</subfield>
+    <subfield code="u">https://d-nb.info/830891196/04</subfield>
+    <subfield code="3">Inhaltsverzeichnis</subfield>
+  </datafield>
+  <datafield tag="883" ind1="2" ind2=" ">
+    <subfield code="8">1\p</subfield>
+    <subfield code="a">ka003lc</subfield>
+    <subfield code="d">20191021</subfield>
+    <subfield code="q">DE-101</subfield>
+    <subfield code="u">https://d-nb.info/provenance/plan#ka003lc</subfield>
+  </datafield>
+  <datafield tag="883" ind1=" " ind2=" ">
+    <subfield code="8">2\p</subfield>
+    <subfield code="a">cgwrk</subfield>
+    <subfield code="d">20210314</subfield>
+    <subfield code="q">DE-101</subfield>
+    <subfield code="u">https://d-nb.info/provenance/plan#cgwrk</subfield>
+  </datafield>
+  <datafield tag="883" ind1="1" ind2=" ">
+    <subfield code="8">3\p</subfield>
+    <subfield code="a">kasw</subfield>
+    <subfield code="c">1,000</subfield>
+    <subfield code="d">20230816</subfield>
+    <subfield code="q">DE-101</subfield>
+    <subfield code="u">https://d-nb.info/provenance/plan#kasw</subfield>
+  </datafield>
+  <datafield tag="883" ind1="1" ind2=" ">
+    <subfield code="8">4\p</subfield>
+    <subfield code="a">kasw</subfield>
+    <subfield code="c">1,000</subfield>
+    <subfield code="d">20230816</subfield>
+    <subfield code="q">DE-101</subfield>
+    <subfield code="u">https://d-nb.info/provenance/plan#kasw</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="2">z</subfield>
+    <subfield code="c">BK</subfield>
+    <subfield code="n">0</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">4</subfield>
+    <subfield code="d">4</subfield>
+  </datafield>
+  <datafield tag="952" ind1=" " ind2=" ">
+    <subfield code="0">0</subfield>
+    <subfield code="1">0</subfield>
+    <subfield code="2">z</subfield>
+    <subfield code="4">0</subfield>
+    <subfield code="7">1</subfield>
+    <subfield code="a">001</subfield>
+    <subfield code="b">001</subfield>
+    <subfield code="c">DISPLAY</subfield>
+    <subfield code="d">2025-08-28</subfield>
+    <subfield code="l">0</subfield>
+    <subfield code="o">VI A 3</subfield>
+    <subfield code="r">2025-08-28 12:09:00</subfield>
+    <subfield code="w">2025-08-28</subfield>
+    <subfield code="y">BK</subfield>
+    <subfield code="z">Rainer W. Leonhardt, Berlin [Spender]</subfield>
+  </datafield>
+</record>
