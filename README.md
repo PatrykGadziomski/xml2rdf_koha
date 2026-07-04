@@ -20,12 +20,15 @@ STATUS:
   - [ ] Evaluate parsing module
   - [ ] Evaluate database integration
     - [ ] I have the feeling I should spend more time here... 
-  - [ ] Evaluate visualization 
+  - [ ] Evaluate visualization
+- [ ] Write a query script for the UI
+- [ ] Evaluate the query script for the UI
 - [X] Self host Koha
 - [ ] Do research on Koha plugin integration
 
 Future:
 - [ ] Seperate the xml2rdf package from the project (Because this could be a small project by its own)
+- [ ] How about some images or nive elements in the visualization?
 
 My goal: At the end I want this to be a koha plugin, for easy conversion of MarcXML to Turtle format and having a native integration for the OPAC.
 
