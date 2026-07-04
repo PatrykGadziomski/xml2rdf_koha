@@ -1,2 +1,4 @@
 .env
 input/
+docker-compose.yml
+venv/
