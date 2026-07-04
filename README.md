@@ -9,7 +9,7 @@ Idea: Parse our MarcXML data to RDF (Turtle) and save the triplets in a apache j
 STATUS:
 - [X] Get MarcXML Data
 - [X] Set up apache Jena Fuseki as docker container
-- [ ] Define a Data Model
+- [X] Define a Data Model
 - [ ] Write first script for the parser
 - [ ] Write first script for the database integration
 - [ ] Write first script for the visualization
