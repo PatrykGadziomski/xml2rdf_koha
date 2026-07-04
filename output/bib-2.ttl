@@ -2,7 +2,14 @@
 
 <http://example.org/record/870544063> dc:identifier "9783887461355" .
 <http://example.org/record/870544063> dc:identifier "3887461355" .
-<http://example.org/record/870544063> dc:creator "Metzger, Max" .
+<http://example.org/record/870544063> dc:creator <http://example.org/author/metzger-max> .
+<http://example.org/author/metzger-max> <http://xmlns.com/foaf/0.1/name> "Metzger, Max" .
 <http://example.org/record/870544063> dc:title "<<Die>> Kunstschlosserei" .
-<http://example.org/record/870544063> dc:subject "Kunstschlosserei" .
-<http://example.org/record/870544063> dc:subject "Schmiedekunst" .
+<http://example.org/record/870544063> dc:publisher "Coleman" .
+<http://example.org/record/870544063> dc:date "1986" .
+<http://example.org/record/870544063> dc:publisher "Edition Libri Rari im Verl. Schäfer" .
+<http://example.org/record/870544063> dc:date "1986" .
+<http://example.org/record/870544063> dc:subject <http://example.org/subject/kunstschlosserei> .
+<http://example.org/subject/kunstschlosserei> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstschlosserei" .
+<http://example.org/record/870544063> dc:subject <http://example.org/subject/schmiedekunst> .
+<http://example.org/subject/schmiedekunst> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schmiedekunst" .

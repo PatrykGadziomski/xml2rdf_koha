@@ -2,9 +2,16 @@
 
 <http://example.org/record/953728498> dc:identifier "9783887463816" .
 <http://example.org/record/953728498> dc:identifier "3887463811" .
-<http://example.org/record/953728498> dc:creator "Metzger, Max" .
+<http://example.org/record/953728498> dc:creator <http://example.org/author/metzger-max> .
+<http://example.org/author/metzger-max> <http://xmlns.com/foaf/0.1/name> "Metzger, Max" .
 <http://example.org/record/953728498> dc:title "Stilkunde für Kunstschlosser" .
-<http://example.org/record/953728498> dc:subject "Kunstschlosserei" .
-<http://example.org/record/953728498> dc:subject "Kunststil" .
-<http://example.org/record/953728498> dc:subject "Schmiedekunst" .
-<http://example.org/record/953728498> dc:subject "Kunststil" .
+<http://example.org/record/953728498> dc:publisher "Ed. Libri Rari, Schäfer" .
+<http://example.org/record/953728498> dc:date "1998" .
+<http://example.org/record/953728498> dc:subject <http://example.org/subject/kunstschlosserei> .
+<http://example.org/subject/kunstschlosserei> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunstschlosserei" .
+<http://example.org/record/953728498> dc:subject <http://example.org/subject/kunststil> .
+<http://example.org/subject/kunststil> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunststil" .
+<http://example.org/record/953728498> dc:subject <http://example.org/subject/schmiedekunst> .
+<http://example.org/subject/schmiedekunst> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schmiedekunst" .
+<http://example.org/record/953728498> dc:subject <http://example.org/subject/kunststil> .
+<http://example.org/subject/kunststil> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kunststil" .
