@@ -1,6 +1,7 @@
 # xml2rdf_koha
 
-![Perl](https://img.shields.io/badge/perl-5.42.2-blue.svg)
+![Perl](https://img.shields.io/badge/perl-5.42.2-blue.svg) ![Version](https://img.shields.io/badge/0.1.svg)
+
 
 This is a small university project @ TH Wildau.
 
