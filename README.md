@@ -2,6 +2,8 @@
 
 ![Perl](https://img.shields.io/badge/perl-5.42.2-blue.svg) ![Version](https://img.shields.io/badge/version-0.1-blue)
 
+![Banner](lib/assets/kpha.jpg)
+
 This is a small university project @ TH Wildau, Germany.
 
 Idea: Parse our MarcXML data to RDF (Turtle) and save the triplets in a apache jena fuseki database. Then visualize the data as a knowledge graph.
