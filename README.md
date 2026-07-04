@@ -1,4 +1,4 @@
-# xml2rdf4koha
+# MarcXML2RDF4Koha
 
 ![Perl](https://img.shields.io/badge/perl-5.42.2-blue.svg) ![Version](https://img.shields.io/badge/version-0.1-blue)
 
