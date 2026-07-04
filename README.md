@@ -1,5 +1,7 @@
 # xml2rdf_koha
 
+![Perl](https://img.shields.io/badge/perl-5.42.2-blue.svg)
+
 This is a small university project @ TH Wildau.
 
 Idea: Parse our MarcXML data to RDF (Turtle) and save the triplets in a apache jena fuseki database. Then visualize the data as a knowledge graph.
