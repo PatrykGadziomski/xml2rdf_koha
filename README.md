@@ -20,3 +20,8 @@ Future:
 My goal: At the end I want this to be a koha plugin, for easy convertig MarcXML to Turtle format and having a nive integration for the OPAC, so that the users can browser our data by graph, instead of a list.
 
 Feel free to commit :)
+
+---
+
+## Data Model
+![Data Model for the parsing][lib/assets/marcxml2rdf_datamodel.jpg]
